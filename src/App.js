@@ -6,7 +6,7 @@ function App() {
     {
       fullName: "Youssef Chaàbi",
       bio: "I am a fullstack devloper with 2 years of experience in a big company.",
-      profession: "FullStack Devloper in NAXXUM company.",
+      profession: "FullStack Devloper at NAXXUM company.",
       imgSrc:
         "https://github.com/Yousefchaabi/Card_Challenge/blob/main/avatar.png?raw=true",
       facebook: "Youssef Chaabi",
