@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 function Content(props) {
   return (
     <main>
-      <img src={props.imgSrc} alt="" />
+      {props.children}
       <h1>{props.fullName}</h1>
       <p className="skills"> {props.profession}</p>
       <p className="skills">{props.bio}</p>
